@@ -1,0 +1,20 @@
+*{
+    margin: 0px center !important;
+    box-sizing: border-box !important;
+    padding: 0px !important;
+}
+
+.carousel-item > img{
+    height: 90vh;
+}
+
+.carousel-caption > h5,p {
+    color: purple;
+}
+
+.row > div[class*="col"]{
+    border: solid paleturquoise 2px;
+    text-align: center;
+}
+
+/* a[href*="tuts"] */
